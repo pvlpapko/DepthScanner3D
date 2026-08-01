@@ -120,3 +120,8 @@ Open3D Poisson reconstruction → GLB/OBJ/STL/PLY
 - Java: 17
 - ARCore SDK: 1.54.0
 - applicationId: `com.depthscanner3d.app`
+
+
+### AndroidX
+
+ARCore uses AndroidX annotations, so `gradle.properties` contains `android.useAndroidX=true`.

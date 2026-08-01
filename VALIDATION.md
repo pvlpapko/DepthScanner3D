@@ -29,3 +29,7 @@ GitHub Actions устанавливает необходимые SDK-пакет�
 4. устойчивость накопления при полном обходе объекта;
 5. импорт PLY/OBJ/STL в целевую программу;
 6. память и скорость на длинном скане.
+
+## AndroidX build configuration
+
+The project has `android.useAndroidX=true`, which is required because ARCore 1.54.0 depends on `androidx.annotation`. Jetifier remains disabled because no legacy Android Support Library dependencies are used.
