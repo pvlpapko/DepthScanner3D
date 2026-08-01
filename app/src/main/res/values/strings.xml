@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Depth Scanner 3D</string>
+    <string name="start_scan">Начать сканирование</string>
+    <string name="stop_scan">Остановить</string>
+    <string name="export_scan">Экспорт ZIP</string>
+    <string name="clear_scan">Очистить</string>
+    <string name="status_initial">Подготовка ARCore…</string>
+    <string name="stats_initial">Точек: 0 · кадров глубины: 0</string>
+    <string name="scan_hint">Медленно обходите неподвижный объект. Держите его в кадре и избегайте бликов.</string>
+</resources>

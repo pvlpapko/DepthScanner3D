@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#99000000</color>
+    <color name="panel_background">#CC101317</color>
+    <color name="button_primary">#FF2D8CFF</color>
+    <color name="button_secondary">#CC2B3138</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="muted">#FFB7C0CC</color>
+    <color name="danger">#FFE05252</color>
+</resources>
