@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+local.properties
+*.iml
+/build/
+app/build/
+*.jks
+*.keystore
+captures/
+.externalNativeBuild/
+.cxx/
+__pycache__/
+*.pyc
+reconstruction-server/.venv/
